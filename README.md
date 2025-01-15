@@ -174,6 +174,7 @@ To set up WebSocket in Django:
 ## Screenshots
 <img width="297" alt="chatinterface" src="https://github.com/user-attachments/assets/e2ef26df-022b-4f53-be9c-2a3aa7254b06" />
 <img width="220" alt="conversation list ui" src="https://github.com/user-attachments/assets/2c89f72c-ac94-4523-8b5c-d220e3ef6a17" />
+<img width="353" alt="authpage" src="https://github.com/user-attachments/assets/9bf196c0-fa12-4ccc-b4c4-632ce3bffd5f" />
 
 ---
 
