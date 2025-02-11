@@ -34,6 +34,7 @@ To set up WebSocket in Django:
    ```bash
    pip install channels
    pip install channels_redis
+   pip install daphne 
    ```
 2. Update your `settings.py` to configure Channels and Redis:
    ```python
