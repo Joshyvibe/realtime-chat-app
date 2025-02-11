@@ -32,7 +32,6 @@ WebSocket provides a persistent connection between the client and server, enabli
 To set up WebSocket in Django:
 1. Install the Django Channels library:
    ```bash
-   pip install channels
    pip install channels_redis
    pip install daphne 
    ```
